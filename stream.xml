@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Start>
-        <Stream url="http://127.0.0.1:5000/media_call"/>
+        <Stream url="https://35bd-86-202-122-240.ngrok-free.app "/>
     </Start>
     <Say>Please say something...</Say>
 </Response>
