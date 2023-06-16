@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Start>
-        <Stream url="https://a89a-86-202-122-240.ngrok-free.app"/>
+        <Stream url="wss://a89a-86-202-122-240.ngrok-free.app"/>
     </Start>
     <Say>Please say something...</Say>
 </Response>
